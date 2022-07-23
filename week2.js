@@ -5,8 +5,12 @@ let students = [
     },
     {
         name: "pam",
-        here: true
-    }
+        here: true,
+    },
+    {
+        name: "Javier",
+        here: true,
+    },
 ]
 
 function getStudentsNames (studentsArray) {
