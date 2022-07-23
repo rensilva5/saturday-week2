@@ -1,0 +1,24 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "main": "firebase.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rensilva5/saturday-week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rensilva5/saturday-week2/issues"
+  },
+  "homepage": "https://github.com/rensilva5/saturday-week2#readme",
+  "dependencies": {
+    "firebase-admin": "^11.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
